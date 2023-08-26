@@ -1,4 +1,4 @@
-module hackathon-260823
+module bot
 
 go 1.20
 
